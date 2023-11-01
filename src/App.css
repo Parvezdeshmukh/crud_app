@@ -1,0 +1,11 @@
+*{
+     padding: 0;
+     margin: 0;
+     box-sizing: none;
+}
+
+.float-end button {
+     padding: 10px;
+     border: none;
+     color: black;
+}
